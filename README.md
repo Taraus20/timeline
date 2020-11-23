@@ -122,7 +122,7 @@ DJM-330混合模拟计算机，DJM-330型混合模拟计算机是采用集成电
 ### ***2001-2005***
 在2004年上半年推出每秒浮点运算速度1万亿次的曙光4000超级服务器。
 
-***reference:***
-        http://baijiahao.baidu.com/s?id=1667028739567579416&wfr=spider&for=pc
-        http://bbs.zol.com.cn/diybbs/d34448_9473_uid_qq_727100u2s5f4.html#picIndex6
-        https://zhidao.baidu.com/question/339620692.html
+***reference:***\<br>
+http://baijiahao.baidu.com/s?id=1667028739567579416&wfr=spider&for=pc
+http://bbs.zol.com.cn/diybbs/d34448_9473_uid_qq_727100u2s5f4.html#picIndex6
+https://zhidao.baidu.com/question/339620692.html
