@@ -27,7 +27,8 @@
 **1964年，吴几康成功研制119计算机，该计算机运算能力为每秒5万次，内存容量比104计算机大8倍。119计算机是第一台自主设计的晶体管计算机，且是用全国产电子元件制造的计算机。**
 
 ![](https://bbs-fd.zol-img.com.cn/t_s800x5000/g5/M00/0A/04/ChMkJlYc6uGIKEwiAABhqBFV8NsAADoigKPJlEAAGHA324.jpg)
-![](https://bbs-fd.zol-img.com.cn/t_s800x5000/g5/M00/0A/04/ChMkJlYc6uOIHo6YAAOzq_ipXE8AADoigKWDdEAA7PD887.jpg)
+
+![image](https://bbs-fd.zol-img.com.cn/t_s800x5000/g5/M00/0A/04/ChMkJlYc6uOIHo6YAAOzq_ipXE8AADoigKWDdEAA7PD887.jpg)
 <center>
     1964年的游戏
 </center>
