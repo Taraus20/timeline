@@ -80,7 +80,7 @@ DJM-330混合模拟计算机，DJM-330型混合模拟计算机是采用集成电
 ### ***1980-1985***
 1980年初我国不少单位也开始采用Z80，X86和M6800芯片研制微机。在1983年，12电子部六所研制成功与IBM PC机兼容的DJS-0520微机。
 1983年中国科学院计算所完成我国第一台大型向量机－757机，计算速度达到每秒1000万次。
-![](http://pics1.baidu.com/feed/b8014a90f603738dddd4c1a55fa61e57fa19ece4.jpeg?token=874f4d0a15577859e003d4ef54e2ece2)
+![](https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3641950634,3814328908&fm=26&gp=0.jpg)
 <center>
    757机
 </center>
